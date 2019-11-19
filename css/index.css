@@ -305,6 +305,16 @@ i {
   background-color: #FFFFFF;
   color: #17A2B8;
 }
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
 @media (max-width: 500px) {
   .nav {
     flex-direction: column;
