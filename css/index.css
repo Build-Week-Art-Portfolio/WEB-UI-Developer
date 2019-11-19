@@ -268,12 +268,12 @@ i {
   width: 90%;
   margin: 0 auto;
   padding: 2rem;
-  background-color: black;
-  opacity: 80%;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 .home .content-destination img {
   border-radius: 10px;
   margin: 4%;
+  background-color: #ffffff;
 }
 .home .content-pick {
   padding-top: 30px;
