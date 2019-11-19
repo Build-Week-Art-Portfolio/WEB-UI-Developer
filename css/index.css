@@ -199,7 +199,7 @@ img {
 }
 .footer {
   width: 100%;
-  border-top: 2px dashed yellow;
+  border-top: 2px solid yellow;
   background: black;
 }
 .footer p {
@@ -352,6 +352,10 @@ img {
   background-color: black;
   color: white;
   transform: rotateY(180deg);
+  border-radius: 60px;
+}
+.flip-card-back a {
+  font-size: 4rem;
 }
 @media (max-width: 500px) {
   .nav {
