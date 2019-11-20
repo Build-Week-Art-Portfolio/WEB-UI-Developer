@@ -263,6 +263,7 @@ img {
   flex-wrap: wrap;
   width: 90%;
   margin: 0 auto;
+  margin-bottom: 10rem;
   padding: 2rem;
   background-color: rgba(0, 0, 0, 0.8);
 }
@@ -308,8 +309,13 @@ img {
   flex-wrap: wrap;
   width: 80%;
   margin: auto;
-  padding-top: 5%;
+  margin-bottom: 15rem;
   padding-bottom: 5%;
+}
+.dev_head {
+  text-align: center;
+  height: 20vh;
+  margin-top: 10%;
 }
 .flip-card {
   background-color: transparent;
